@@ -3,3 +3,5 @@ This is a project for the odin project, when I create a basic website that showc
 -writing html  to structure web pages
 -using basic css for styling
 -structuring a simple project  with good organization
+
+By the end of this project 
